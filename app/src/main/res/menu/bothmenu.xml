@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/neither"
+        android:orderInCategory="100"
+        android:title="@string/chooseNeither" />
+
+    <item
+        android:id="@+id/bold"
+        android:orderInCategory="100"
+        android:title="@string/choosebold" />
+
+    <item
+        android:id="@+id/ita"
+        android:orderInCategory="101"
+        android:title="@string/chooseita" />
+    <item
+        android:id="@+id/both"
+        android:orderInCategory="102"
+        android:title="@string/chooseboth"
+        />
+
+</menu>

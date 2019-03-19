@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextEditor</string>
+    <string name="FirstPage">Choose Your Favorite Font</string>
+    <string name="choosebold">Bold</string>
+    <string name="chooseita">Italic</string>
+    <string name="chooseboth">Both</string>
+    <string name="chooseNeither">Regular</string>
+    <string name="writting">Have Fun Editing</string>
+</resources>
